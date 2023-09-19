@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+
+header {
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 36px;
+    margin-top: 45px;
+    margin-bottom: 40px;
+}
+footer {
+    background-color: white;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 30px 30px 20px 45px;
+}
+footer nav a img{
+    height: 80px;
+    position: absolute;
+    right:10px ;
+    top: 2240px;
+}
+.footer-text {
+    font-size: 24px;
+    margin-right: 30px;
+}
+p img{
+    width: 900px;
+}
+main nav a img{
+    position: absolute;
+    height: 80px;
+    top: 10px;
+    left: 20px;
+}
